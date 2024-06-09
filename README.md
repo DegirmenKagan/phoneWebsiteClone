@@ -1,8 +1,7 @@
 # React + Vite
 
-
-```npm i gsap @gsap/react ```
-
+`npm i gsap @gsap/react `
+`npm i three @react-three/drei @react-three/fiber`
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
